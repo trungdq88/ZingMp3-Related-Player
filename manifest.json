@@ -1,5 +1,5 @@
 {
-  "name": "Show Random Bookmark",
+  "name": "MP3 Related Player",
   "version": "0.0.1",
   "background": {
     "scripts": ["background.js"]
